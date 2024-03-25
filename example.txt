@@ -1,3 +1,4 @@
 "Hi this Pruthvi Aws & devopsEngineer"
 
+<<<<<<< HEAD
 "this git conflict checking"
